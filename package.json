@@ -1,0 +1,19 @@
+{
+  "name": "typescript-playing",
+  "version": "1.0.0",
+  "description": "Playing around with TypeScript",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/strivinglife/typescript-playing.git"
+  },
+  "author": "James Skemp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/strivinglife/typescript-playing/issues"
+  },
+  "homepage": "https://gitlab.com/strivinglife/typescript-playing#README"
+}
