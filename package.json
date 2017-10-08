@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://gitlab.com/strivinglife/typescript-playing/issues"
   },
-  "homepage": "https://gitlab.com/strivinglife/typescript-playing#README"
+  "homepage": "https://gitlab.com/strivinglife/typescript-playing#README",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.2",
+    "typescript": "^2.5.3"
+  }
 }
